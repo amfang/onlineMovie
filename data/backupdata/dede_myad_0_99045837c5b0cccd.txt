@@ -1,0 +1,4 @@
+INSERT INTO `dede_myad` VALUES('21','0','0','top','播放器上广告','0','1458538618','1461130618','<a href=\"/\" id=\"qyuef\"><img src=\"/uploads/160321/160321/1-160321133I5U9.jpg\"  border=\"0\" /></a>','');
+INSERT INTO `dede_myad` VALUES('22','0','0','bottom','播放器下广告','0','1458538665','1461130665','<a href=\"/\" id=\"qyuef\"><img src=\"/uploads/160321/1-160321133P41b.jpg\"  border=\"0\" /></a>','');
+INSERT INTO `dede_myad` VALUES('23','0','0','piao','底部悬浮','0','1458538694','1461130694','<a href=\"/\" id=\"qyuef\"><img src=\"/uploads/160321/1-160321133R92Z.jpg\"  border=\"0\" /></a>','');
+INSERT INTO `dede_myad` VALUES('24','0','0','erweima','播放页带二维码图片','0','1458538743','1461130743','<a href=\"/\" id=\"qyuef\"><img src=\"/uploads/160321/1-16032113392cO.jpg\"  border=\"0\" /></a>','');

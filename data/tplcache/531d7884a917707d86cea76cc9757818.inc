@@ -1,0 +1,11 @@
+<field:banben itemname="版本类型" autofield="1" notsend="0" type="text" isnull="true" islist="1" default=""  maxlength="250" page="">
+</field:banben>
+<field:jianjie itemname="简介" autofield="1" notsend="0" type="multitext" isnull="true" islist="1" default=""  maxlength="250" page="">
+</field:jianjie>
+<field:dizhi itemname="外部视频" autofield="1" notsend="0" type="multitext" isnull="true" islist="1" default=""  maxlength="250" page="">
+</field:dizhi>
+<field:bendi itemname="本地视频" autofield="1" notsend="0" type="media" isnull="true" islist="1" default=""  maxlength="250" page="">
+</field:bendi>
+<field:pingtai itemname="各大平台通用代码" autofield="1" notsend="0" type="multitext" isnull="true" islist="1" default=""  maxlength="250" page="">
+</field:pingtai>
+
