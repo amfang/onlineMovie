@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>YDISK—云解析调用演示</title>
+</head>
+<body>
+<div id="a1"></div>
+<script type="text/javascript" src="/letvpan/ckplayer/ckplayer.js" charset="utf-8"></script>
+<script type="text/javascript">
+    var vid=location.href.split('?vid=')[1];
+	var flashvars={
+	    f: '/letvpan/ckplayer/m3u8.swf', 		//使用swf向播放器发送视频地址进行播放
+	    a: '/letvpan/api.php?vid='+vid,	
+	    c: 0,		//调用 ckplayer.js 配置播放器
+	    p: 1,		//自动播放视频
+	    s: 4,		//flash插件形式发送视频流地址给播放器进行播放
+	    lv: 0
+	};
+	var params={bgcolor:'#FFF',allowFullScreen:true,allowScriptAccess:'always',wmode:'transparent'};
+	var isiPad = navigator.userAgent.match(/iPad|iPhone|Linux|Android|iPod/i) != null;
+    if (isiPad) {
+        document.getElementById('a1').innerHTML = '<video src="/letvpan/api.php?vid='+vid+'" controls="controls" autoplay="autoplay" width="600" height="400"></video>'
+	}else{
+	    CKobject.embedSWF('/letvpan/ckplayer/ckplayer.swf','a1','ckplayer_a1','600','400',flashvars,params);
+	}
+  </script>
+</body>
+</html>
