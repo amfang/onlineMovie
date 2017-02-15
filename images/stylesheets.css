@@ -1,0 +1,1293 @@
+.bg {
+	background: rgb(250, 251, 252);
+}
+.xi1 {
+	color: rgb(255, 102, 0) !important;
+}
+.xi1 a {
+	color: rgb(255, 102, 0) !important;
+}
+.cyan {
+	color: rgb(87, 105, 141);
+}
+a.cyan:link {
+	color: rgb(87, 105, 141);
+}
+a.cyan:visited {
+	color: rgb(87, 105, 141);
+}
+a.cyan:hover {
+	color: rgb(87, 105, 141);
+}
+.nav .icon {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.header-title .arrow {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.a_icon.text_ads::before {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.video-media .video-thumb .vmask em {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.video-media .audio-thumb .vmask em {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.quick_btn {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.quick_con {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.scrolltop {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.btn_qqlogin .icon {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.login_select .icon-arrow {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.bm_h .arrow {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.sub_forum li a::after {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.sub_forum li .icon {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.managebox .icon-fav {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.managebox .icon-type {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.articlepage .dateline em .icon-view {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.articlepage .dateline em .icon-reply {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.forumlist li a::after {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.threadlist .icon {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.postlist h2 .icon {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .authi li span .icon-time {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .dateline span .icon-time {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .authi li span .icon-view {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .authi li span .icon-comment {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .authi li em .icon-settop {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .authi li em .icon-agree {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .authi li em .icon-fav {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .authi li em .icon-manage {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .authi li em .icon-reply {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .dateline em .icon-agree {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .dateline em .icon-reply {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.plc .pi .message .extimg i {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.post_photo {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.icon_del {
+	background-image: url("sprites.png"); background-repeat: no-repeat; background-size: 250px auto; -webkit-background-size: 250px auto;
+}
+.header {
+	width: 100%; height: 44px;
+}
+.nav {
+	background: rgb(53, 59, 68); padding: 0px; width: 100%; height: 44px; position: relative;
+}
+.navs::after {
+	background: rgba(0, 0, 0, 0.2); left: 0px; width: 100%; height: 1px; bottom: 0px; position: absolute; content: "";
+}
+.nav .icon {
+	width: 44px; height: 44px; display: inline-block;
+}
+.nav .icon-home.icon {
+	background-position: 0px -180px;
+}
+.nav .icon-back.icon {
+	background-position: 0px -225px;
+}
+.nav .icon-user.icon {
+	background-position: 0px -268px;
+}
+.nav .icon-search.icon {
+	background-position: 0px -268px;
+}
+.nav .icon-post.icon {
+	background-position: 0px -313px;
+}
+.nav .icon-reply.icon {
+	background-position: 0px -357px;
+}
+.header-logo {
+	
+}
+.header-title {
+	margin: 0px 44px; text-align: center; color: white; line-height: 46px; overflow: hidden; font-size: 18px; white-space: nowrap; text-overflow: ellipsis; -webkit-box-flex: 1; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+}
+.header-title .arrow {
+	background-position: -145px -258px; margin: -2px 0px 0px 5px; width: 15px; height: 8px; display: inline-block;
+}
+.subname_lists {
+	left: 50%; top: 44px; width: 100%; position: fixed; z-index: 10;
+}
+.subname_lists ul {
+	background: rgb(255, 255, 255); margin: 0px auto; padding: 0px; left: -50%; width: 150px; text-align: center; line-height: 38px; font-size: 16px; position: relative; box-shadow: 0px 1px 5px rgba(0,0,0,0.3);
+}
+.subname_lists li {
+	border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.subname_lists a {
+	overflow: hidden; display: block; white-space: nowrap;
+}
+.subname_lists a:hover {
+	color: rgb(39, 130, 186);
+}
+.header-left {
+	top: 0px; height: 100%; position: absolute;
+}
+.header-right {
+	top: 0px; height: 100%; position: absolute;
+}
+.header-left {
+	left: 0px;
+}
+.header-right {
+	right: 0px;
+}
+.header-bg {
+	width: 100%;
+}
+.header-tit {
+	height: 44px; text-align: center; color: rgb(207, 218, 229); line-height: 44px; font-size: 20px; font-weight: bold; display: block;
+}
+.header-tit .name {
+	margin: 0px 50px; padding: 0px; width: auto; height: 44px; color: inherit; overflow: hidden; display: block; text-overflow: ellipsis; text-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
+}
+.header-nav {
+	left: 0px; top: 0px; height: 100%; position: absolute;
+}
+.header-act {
+	top: 0px; height: 100%; right: 0px; position: absolute;
+}
+.a_icon.text_ads::before {
+	background-position: -51px -199px; margin: 0px 10px 0px 0px; border-radius: 2px; width: 18px; height: 18px; float: left; content: " ";
+}
+.text_ads li {
+	overflow: hidden; display: none; white-space: nowrap; text-overflow: ellipsis;
+}
+.text_ads li.show {
+	display: block;
+}
+.a_cn img {
+	max-width: 100%;
+}
+.a_cn .ad_bt {
+	background: rgb(241, 249, 255); padding: 0px 12px; color: rgb(28, 90, 162); line-height: 40px; overflow: hidden; clear: both; font-size: 15px; margin-bottom: -1px; border-bottom-color: rgb(206, 216, 225); border-bottom-width: 1px; border-bottom-style: solid; white-space: nowrap; position: relative; text-overflow: ellipsis;
+}
+.a_cn .ad_tl {
+	background: rgb(248, 248, 248); padding: 10px; line-height: 19px; font-size: 15px; border-bottom-color: rgb(217, 216, 216); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.a_cn .ad_pl {
+	background: rgb(248, 248, 248); padding: 10px; line-height: 19px; font-size: 15px; border-bottom-color: rgb(217, 216, 216); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.a_cn .ad_ap {
+	background: rgb(248, 248, 248); padding: 10px; line-height: 19px; font-size: 15px; border-bottom-color: rgb(217, 216, 216); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.a_cn .ad_tl {
+	border-top-color: rgb(217, 216, 216); border-bottom-color: currentColor; border-top-width: 1px; border-bottom-width: medium; border-top-style: solid; border-bottom-style: none;
+}
+.media-title {
+	text-align: center; margin-bottom: 10px;
+}
+.video-media {
+	text-align: center; position: relative; min-width: 100%;
+}
+.video-media video {
+	width: 100%;
+}
+.video-media iframe {
+	width: 100%;
+}
+.video-media .timeleft {
+	bottom: 0px; margin-left: 5px; position: absolute;
+}
+.video-media .video-thumb {
+	width: 120px; height: 90px; text-align: center; overflow: hidden; display: inline-block; position: relative; z-index: 1; background-repeat: no-repeat; background-size: cover;
+}
+.video-media .audio-thumb {
+	width: 120px; height: 90px; text-align: center; overflow: hidden; display: inline-block; position: relative; z-index: 1; background-repeat: no-repeat; background-size: cover;
+}
+.video-media .video-thumb .vmask {
+	left: 0px; bottom: 0px; overflow: hidden; display: inline; position: absolute; z-index: 100; cursor: pointer; background-color: rgba(0, 0, 0, 0.2);
+}
+.video-media .audio-thumb .vmask {
+	left: 0px; bottom: 0px; overflow: hidden; display: inline; position: absolute; z-index: 100; cursor: pointer; background-color: rgba(0, 0, 0, 0.2);
+}
+.video-media .video-thumb .vmask em {
+	width: 50px; height: 50px; display: block; cursor: pointer;
+}
+.video-media .audio-thumb .vmask em {
+	width: 50px; height: 50px; display: block; cursor: pointer;
+}
+.video-media .video-thumb {
+	width: 120px; height: 90px;
+}
+.video-media .audio-thumb {
+	width: 100px; height: 100px;
+}
+.video-media .video-thumb .vmask {
+	width: 120px; height: 90px;
+}
+.video-media .audio-thumb .vmask {
+	width: 100px; height: 100px;
+}
+.video-media .video-thumb .vmask em {
+	background-position: -103px -276px; margin: 20px 0px 0px 35px;
+}
+.video-media .audio-thumb .vmask em {
+	background-position: -103px -332px; margin: 25px 0px 0px 25px;
+}
+.video-media .audio-thumb .vmask em audio {
+	display: none;
+}
+.video-media .playing.audio-thumb .vmask em {
+	background-position: -103px -276px;
+}
+.video-media .pause.audio-thumb .vmask em {
+	background-position: -103px -332px;
+}
+.topic-info {
+	overflow: hidden; position: relative;
+}
+.topic-info ul {
+	
+}
+.topic-info .topic-item {
+	width: 100%; float: left; position: relative;
+}
+.topic-item div {
+	height: 165px; overflow: hidden;
+}
+.topic_img {
+	margin: auto; width: 100%;
+}
+.topic-item .topic-title {
+	left: 0px; width: 100%; height: 28px; text-align: center; bottom: 0px; color: rgb(255, 255, 255); line-height: 28px; position: absolute;
+}
+.topic-title {
+	color: rgb(255, 255, 255); font-size: 14px;
+}
+.topic-title a {
+	color: rgb(255, 255, 255); font-size: 14px;
+}
+.dot-slider {
+	height: 12px; right: 8px; bottom: 10px; color: white; font-size: 12px; position: absolute; z-index: 20;
+}
+.dot-slider .dot {
+	width: 6px; height: 4px; margin-right: 3px; display: inline-block; background-color: rgb(178, 177, 177); -webkit-border-radius: 2px;
+}
+.dot-slider :last-child.dot {
+	margin-right: 12px;
+}
+.dot-slider .current.dot {
+	background-color: white;
+}
+.quick_nav {
+	left: 12px; bottom: 12px; position: fixed; z-index: 11; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.quick_nav .new {
+	padding: 0px 6px; border-radius: 10px; border: 2px solid rgb(255, 255, 255); top: -3px; height: 19px; color: rgb(255, 255, 255); line-height: 19px; font-weight: bold; margin-left: 34px; position: absolute; box-shadow: 0px 1px 2px rgba(0,0,0,0.15); background-color: rgb(255, 84, 96);
+}
+.quick_nav em {
+	background: rgb(255, 84, 96); margin: 4px; border-radius: 15px; border: 2px solid rgb(255, 255, 255); width: 10px; height: 10px; right: 0px; display: inline-block; position: absolute; box-shadow: 0px 1px 2px rgba(0,0,0,0.15);
+}
+.quick_nav i {
+	margin: 3px 0px 0px 3px; border-radius: 45px; border: 1px solid rgb(239, 240, 241); width: 45px; height: 45px; display: inline-block; box-shadow: 0px 2px 2px rgba(0,0,0,0.1);
+}
+.quick_mask {
+	background: rgba(0, 0, 0, 0.2); left: 0px; top: 0px; right: 0px; bottom: 0px; display: none; position: fixed; z-index: 10;
+}
+.quick_btn {
+	width: 53px; height: 53px; position: relative; z-index: 13;
+}
+.current.quick_btn {
+	background-position: 0px -58px;
+}
+.quick_con {
+	background-position: -60px 0px; left: 23px; width: 190px; height: 190px; bottom: 25px; overflow: hidden; position: absolute; z-index: 12; -webkit-transition: all linear .15s;
+}
+.hide.quick_con {
+	opacity: 0; pointer-events: none; -webkit-transform: translate(-100px, 100px) scale(0.2);
+}
+.show.quick_con {
+	opacity: 1; -webkit-transform: translate(0px, 0) scale(1);
+}
+.quick_list li {
+	position: absolute;
+}
+.quick_list li .new {
+	top: 7px; margin-left: 43px;
+}
+.quick_list li em {
+	top: 10px; right: 10px;
+}
+.quick_list li span {
+	height: 28px; text-align: center; color: rgb(98, 98, 98); line-height: 28px; font-size: 14px; text-decoration: none; display: block; position: absolute; text-shadow: 0 0 1px rgba(255, 255, 255, 0.6); -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.quick_list li.qnav_home span {
+	left: 11px; top: 11px; width: 53px; height: 53px; line-height: 1000px; text-indent: -90000px; overflow: hidden;
+}
+.qnav_home {
+	left: 56px; top: 55px; width: 78px; height: 78px; position: absolute;
+}
+.qnav_one {
+	left: 17px; top: 4px; width: 92px; height: 68px;
+}
+.qnav_one span {
+	left: 23px; top: 19px; width: 42px;
+}
+.qnav_two {
+	left: 4px; top: 49px; width: 52px; height: 90px;
+}
+.qnav_two span {
+	left: 4px; top: 31px; width: 42px;
+}
+.qnav_three {
+	left: 16px; top: 115px; width: 79px; height: 69px;
+}
+.qnav_three span {
+	left: 23px; top: 19px; width: 42px;
+}
+.qnav_four {
+	left: 94px; top: 116px; width: 77px; height: 85px;
+}
+.qnav_four span {
+	left: 13px; top: 19px; width: 42px;
+}
+.qnav_five {
+	left: 132px; top: 48px; width: 52px; height: 90px;
+}
+.qnav_five span {
+	left: 6px; top: 31px; width: 42px;
+}
+.qnav_six {
+	left: 94px; top: 4px; width: 77px; height: 67px;
+}
+.qnav_six span {
+	left: 13px; top: 19px; width: 42px;
+}
+.scrolltop {
+	background-position: -155px -206px; width: 35px; height: 35px; background-repeat: no-repeat;
+}
+.scrolltop::after {
+	display: none;
+}
+.scrolltop::before {
+	display: none;
+}
+.bottom.scrolltop {
+	bottom: 8px; -webkit-transform: rotate(180deg);
+}
+.search .input {
+	border-radius: 3px; margin-top: 4px;
+}
+.search_tab {
+	margin: 12px 10px 0px;
+}
+.search_tab a {
+	padding: 0px 12px; border-radius: 3px; height: 28px; color: rgb(102, 102, 102); line-height: 28px; font-size: 12px; margin-right: 10px; float: left; display: inline-block; background-color: rgb(229, 229, 229);
+}
+.search_tab a.on {
+	color: rgb(255, 255, 255); background-color: rgb(36, 152, 216);
+}
+.search_hotkey {
+	padding: 10px 0px 0px 10px; clear: both;
+}
+.search_hotkey ul {
+	margin-bottom: 10px;
+}
+.search_hotkey li {
+	background: rgb(242, 242, 242); border-radius: 3px; border: 1px solid rgb(219, 219, 219); height: 30px; text-align: center; line-height: 30px; overflow: hidden; margin-right: 10px; white-space: nowrap; text-overflow: ellipsis; -webkit-box-flex: 1;
+}
+.search_hotkey li a {
+	font-size: 14px; display: block;
+}
+.bouncescale_in {
+	opacity: 1; -webkit-animation: bouncescalein 1s; animation: bouncescalein 1s;
+}
+.pmform .input {
+	border-radius: 3px; border: 1px solid rgb(217, 216, 216); width: 100%; height: 30px; text-indent: 7px; margin-top: 4px;
+}
+.loginbox {
+	padding-top: 22px;
+}
+.login_from {
+	border-radius: 3px;
+}
+.login_from .p_fre {
+	width: 99% !important;
+}
+.login_from .p_fre {
+	width: 99% !important;
+}
+.btn_login .pn {
+	background: rgb(255, 255, 0); border-radius: 3px; width: 100%; height: 44px; text-align: center; color: white; line-height: 44px; font-size: 16px; font-weight: 700;
+}
+.btn_register .pn {
+	background: rgb(255, 255, 0); border-radius: 3px; width: 100%; height: 44px; text-align: center; color: white; line-height: 44px; font-size: 16px; font-weight: 700;
+}
+.btn_login .pn:hover {
+	background: rgb(255, 255, 0); border-radius: 3px; width: 100%; height: 44px; text-align: center; color: white; line-height: 44px; font-size: 16px; font-weight: 700;
+}
+.btn_register .pn:hover {
+	background: rgb(255, 255, 0); border-radius: 3px; width: 100%; height: 44px; text-align: center; color: white; line-height: 44px; font-size: 16px; font-weight: 700;
+}
+.btn_exit a {
+	background: rgb(255, 255, 0); border-radius: 3px; width: 100%; height: 44px; text-align: center; color: white; line-height: 44px; font-size: 16px; font-weight: 700;
+}
+.btn_exit a:hover {
+	background: rgb(255, 255, 0); border-radius: 3px; width: 100%; height: 44px; text-align: center; color: white; line-height: 44px; font-size: 16px; font-weight: 700;
+}
+.btn_exit a {
+	background: rgb(233, 83, 50);
+}
+.btn_exit a:hover {
+	background: rgb(233, 83, 50);
+}
+.btn_qqlogin a {
+	background: rgb(245, 245, 245); border-radius: 3px; border: 1px solid rgb(224, 224, 224); width: 100%; height: 43px; text-align: center; color: rgb(152, 152, 152); line-height: 43px; font-size: 16px; font-weight: 700; margin-top: 10px;
+}
+.btn_qqlogin a:hover {
+	background: rgb(245, 245, 245); border-radius: 3px; border: 1px solid rgb(224, 224, 224); width: 100%; height: 43px; text-align: center; color: rgb(152, 152, 152); line-height: 43px; font-size: 16px; font-weight: 700; margin-top: 10px;
+}
+.btn_qqlogin .icon {
+	background-position: -7px -153px; width: 30px; height: 30px; overflow: hidden; vertical-align: middle; display: inline-block;
+}
+.login_select .icon-arrow {
+	background-position: -103px -258px; width: 15px; height: 8px; margin-top: 18px; -webkit-transform: rotate(-270deg);
+}
+.reg_link a {
+	
+}
+.morelink {
+	margin: 10px; border-radius: 2px; border: 1px solid rgb(224, 224, 224); height: 34px; text-align: center; line-height: 34px; font-size: 15px; display: block; background-color: rgb(245, 245, 245);
+}
+.more-article a {
+	margin: 10px; padding: 0px 9px; border-radius: 1px; border: 1px solid rgb(216, 216, 216); height: 32px; text-align: center; color: rgb(87, 87, 87); line-height: 32px; overflow: hidden; font-size: 15px; display: block; white-space: nowrap; text-overflow: ellipsis; background-color: rgb(255, 255, 255);
+}
+.link-more a {
+	margin: 10px; padding: 0px 9px; border-radius: 1px; border: 1px solid rgb(216, 216, 216); height: 32px; text-align: center; color: rgb(87, 87, 87); line-height: 32px; overflow: hidden; font-size: 15px; display: block; white-space: nowrap; text-overflow: ellipsis; background-color: rgb(255, 255, 255);
+}
+.bm_h {
+	background: rgb(244, 246, 248); height: 40px; line-height: 40px; border-bottom-color: rgb(225, 227, 229); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.bm_h:hover {
+	
+}
+.bm_h h2 {
+	background: rgb(244, 246, 248); height: 40px;
+}
+.bm_h h2 a {
+	line-height: 40px; font-size: 15px; font-weight: bold; margin-left: 0px;
+}
+.bm_h .o {
+	width: 25px;
+}
+.bm_h .arrow {
+	background-position: -103px -258px; width: 15px; height: 8px; display: inline-block;
+}
+.bm_h .yes.arrow {
+	-webkit-transform: rotate(180deg); transform: rotate(180deg);
+}
+.bm_h .no.arrow {
+	-webkit-transform: rotate(0deg); transform: rotate(0deg);
+}
+.sub_forum {
+	border-width: medium medium 1px; border-style: none none solid; border-color: currentColor currentColor rgb(225, 227, 229); border-radius: 0px;
+}
+.sub_forum li {
+	height: 64px; line-height: 64px; border-bottom-color: rgb(225, 227, 229); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.sub_forum li a {
+	list-style: none; padding: 0px; width: 100%; height: 64px; position: relative;
+}
+.sub_forum li a::after {
+	background-position: -124px -258px; top: 27px; width: 15px; height: 8px; right: 10px; position: absolute; content: ""; -webkit-transform: rotate(90deg); transform: rotate(90deg);
+}
+.sub_forum li .forum {
+	margin: 7px 10px;
+}
+.sub_forum li .forum img {
+	border-radius: 2px; width: 50px; height: 50px;
+}
+.sub_forum li .icon {
+	background-position: -102px -198px; border-radius: 2px; width: 50px; height: 50px; display: inline-block; background-color: rgb(207, 207, 207);
+}
+.sub_forum li .new.icon {
+	background-color: rgb(248, 119, 16);
+}
+.sub_forum li .num {
+	margin: 0px; padding: 0px 8px; border-radius: 0px; color: rgb(153, 153, 153); font-size: 10px; float: none;
+}
+.sub_forum li .text {
+	margin: 7px 10px 7px 0px; overflow: hidden; font-family: arial; -webkit-box-flex: 2; box-flex: 2;
+}
+.sub_forum li .title {
+	height: 25px; color: rgb(38, 38, 38); line-height: 28px; font-size: 16px;
+}
+.sub_forum li .desc {
+	height: 25px; line-height: 25px; margin-right: 30px;
+}
+.sub_forum li .subclass {
+	color: rgb(178, 182, 186); font-size: 12px; margin-right: 5px; display: inline-block;
+}
+.coll_lists li {
+	line-height: 45px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.coll_lists li a {
+	padding: 0px 10px; font-size: 16px; display: block;
+}
+.navitem ul {
+	background: rgb(249, 249, 249); text-align: center; overflow: hidden; padding-top: 8px; clear: both; font-size: 15px; border-bottom-color: rgb(249, 249, 249); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.navitem li {
+	width: 20%; height: 28px; line-height: 28px; margin-bottom: 5px; float: left; display: inline-block;
+}
+.navitem li a {
+	display: block;
+}
+.topline {
+	padding: 5px 0px 10px; text-align: center;
+}
+.topline_h2 h2 {
+	padding: 8px 0px 4px; text-align: center; font-size: 17px;
+}
+.tl_mt.topline_h2 h2 {
+	margin-top: 5px;
+}
+.topline_h2 h2 a {
+	color: rgb(213, 56, 48);
+}
+.topline_mate p {
+	text-align: center; padding-bottom: 2px; font-size: 14px;
+}
+.topline_mate p a {
+	margin: 0px 4px; color: rgb(51, 51, 51);
+}
+.tl_mb.topline_mate p {
+	margin-bottom: 10px;
+}
+.toppic {
+	height: 165px; overflow: hidden; position: relative;
+}
+.toppic ul {
+	
+}
+.toppic li {
+	width: 100%; float: left; position: relative;
+}
+.toppic li div {
+	height: 165px; overflow: hidden;
+}
+.toppic li img {
+	margin: auto; width: 100%;
+}
+.toppic li span {
+	left: 0px; top: 137px; width: 100%; height: 28px; text-align: center; color: rgb(255, 255, 255); line-height: 28px; position: absolute;
+}
+.toppic li span {
+	color: rgb(255, 255, 255); font-size: 14px;
+}
+.toppic li span a {
+	color: rgb(255, 255, 255); font-size: 14px;
+}
+.toppic .num {
+	height: 12px; right: 8px; bottom: 10px; color: white; font-size: 12px; position: absolute; z-index: 20;
+}
+.tabnav {
+	background: rgb(255, 255, 255); padding: 0px 10px; height: 38px; color: rgb(34, 50, 58); line-height: 38px; overflow: hidden; border-top-color: rgb(43, 115, 223); border-bottom-color: rgb(235, 235, 235); border-top-width: 2px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.tabnav .titletext {
+	font-size: 16px; font-weight: bold;
+}
+.tabnav .titletext::before {
+	width: 2px; height: 16px; margin-right: 6px; vertical-align: -2px; display: inline-block; content: ""; background-color: rgb(0, 110, 189);
+}
+.tabnav .subtitle {
+	padding-left: 10px; font-size: 14px; float: right;
+}
+.tabnav .subtitle a {
+	color: rgb(43, 115, 223);
+}
+.toplist dl {
+	padding: 10px 0px 0px; text-align: center;
+}
+.toplist dt {
+	font-size: 18px; font-weight: normal;
+}
+.toplist dt a {
+	color: rgb(213, 56, 48);
+}
+.toplist dd {
+	overflow: hidden; font-size: 14px;
+}
+.before.piclist ul {
+	margin-top: 17px;
+}
+.after.piclist ul {
+	margin-bottom: 17px;
+}
+.piclist ul {
+	margin: 10px 0px 7px 10px; line-height: 1; clear: both;
+}
+.piclist li {
+	width: 50%; height: 90px; text-align: left; margin-right: 10px; position: relative; -webkit-box-flex: 1;
+}
+.piclist li a {
+	width: 100%; height: 90px; color: rgb(102, 102, 102); overflow: hidden; font-size: 14px; display: block;
+}
+.piclist li img {
+	margin: 0px auto; width: 100%;
+}
+.piclist li span {
+	padding: 0px 5px; left: 0px; width: 100%; height: 22px; text-align: center; bottom: 0px; color: white; line-height: 22px; overflow: hidden; white-space: nowrap; position: absolute; text-overflow: ellipsis; box-sizing: border-box; background-color: rgba(0, 0, 0, 0.5); -webkit-box-sizing: border-box;
+}
+.newslist ul {
+	padding: 7px 10px; clear: both;
+}
+.newslist li {
+	height: 32px; line-height: 32px; overflow: hidden; font-size: 17px; white-space: nowrap; position: relative; text-overflow: ellipsis;
+}
+.newslist li em {
+	color: rgb(136, 136, 136); font-size: 10px; font-style: normal; float: right;
+}
+.newsmore a {
+	background: rgb(241, 241, 241); margin: 0px 10px 15px; height: 36px; text-align: center; line-height: 36px; clear: both; font-size: 15px; display: block;
+}
+.managebox {
+	border-top-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.managebox .title {
+	height: 40px; color: rgb(1, 98, 172); line-height: 40px; font-size: 15px;
+}
+.managebox .act {
+	float: right; position: relative;
+}
+.managebox .act {
+	color: rgb(87, 105, 141);
+}
+.managebox .act a {
+	color: rgb(87, 105, 141);
+}
+.managebox .act em {
+	font-size: 14px; font-weight: 500; margin-left: 16px;
+}
+.managebox .line.act::after {
+	background: rgb(217, 217, 217); top: 13px; width: 1px; height: 15px; right: 0px; position: absolute; content: " ";
+}
+.managebox .act .favbtn {
+	padding: 0px 10px; display: block;
+}
+.managebox .typebtn {
+	padding: 0px 10px;
+}
+.managebox .icon-fav {
+	background-position: -225px -234px; left: 5px; top: 10px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.managebox .icon-type {
+	background-position: -225px -234px; left: 5px; top: 10px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.managebox .icon-fav {
+	background-position: -225px -194px;
+}
+.managebox .on.icon-fav {
+	background-position: -225px -214px;
+}
+.managebox .type_list {
+	background: rgb(221, 221, 221); padding: 10px 0px 0px 10px; border-top-color: rgb(221, 221, 221); border-top-width: 1px; border-top-style: solid; position: relative;
+}
+.managebox .type_list::before {
+	background: rgb(221, 221, 221); border-width: 1px 1px 0px 0px; top: -6px; width: 10px; height: 10px; right: 27px; position: absolute; content: " "; -webkit-transform: rotate(45deg);
+}
+.managebox .hide.type_list {
+	display: none;
+}
+.managebox .type_list ul {
+	margin-bottom: 10px;
+}
+.managebox .type_list li {
+	background: rgb(242, 242, 242); border-radius: 3px; border: 1px solid rgb(219, 219, 219); height: 30px; text-align: center; line-height: 30px; overflow: hidden; margin-right: 10px; white-space: nowrap; text-overflow: ellipsis; -webkit-box-flex: 1;
+}
+.managebox .type_list li a {
+	font-size: 14px; display: block;
+}
+.managebox .type_list li.on {
+	background: rgb(255, 248, 232); border-color: rgb(255, 218, 165);
+}
+.articlelist {
+	border-top-color: rgb(213, 213, 213); border-top-width: 1px; border-top-style: solid;
+}
+.articlelist img {
+	border-radius: 1px; width: 52px; height: 36px; margin-right: 10px; float: left;
+}
+.articlelist2 img {
+	border-radius: 1px; width: 57px; height: 40px; margin-right: 10px; float: left;
+}
+.articlelist li {
+	padding: 10px; height: 64px; line-height: 19px; font-size: 16px; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.articlelist li a {
+	font-size: 16px;
+}
+.articlelist .title {
+	height: 22px; line-height: 22px; overflow: hidden;
+}
+.articlelist .info {
+	height: 40px; color: rgb(153, 153, 153); overflow: hidden; font-size: 13px; margin-top: 4px;
+}
+.articlepage {
+	
+}
+.articlepage h2 {
+	margin: 5px 10px 0px; line-height: 1.5em; clear: both; font-size: 16px; font-weight: bold;
+}
+.articlepage .dateline {
+	padding: 10px; border-bottom-color: rgb(216, 216, 216); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.articlepage .dateline span {
+	margin-left: 10px;
+}
+.articlepage .dateline em {
+	padding-left: 25px; float: right; position: relative;
+}
+.articlepage .dateline em .icon-view {
+	background-position: -224px -315px; left: 4px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.articlepage .dateline em .icon-reply {
+	background-position: -224px -315px; left: 4px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.articlepage .dateline em .icon-reply {
+	background-position: -224px -335px;
+}
+.articlepage .summary {
+	margin: 13px 10px 18px; padding: 5px 10px; border: 1px solid rgb(216, 216, 216); line-height: 22px; overflow: hidden; font-size: 14px; max-height: 42px;
+}
+.articlepage .summary .icon {
+	width: 30px; height: 15px; text-align: center; color: rgb(255, 255, 255); line-height: 15px; font-size: 12px; margin-right: 5px; vertical-align: 1px; display: inline-block; background-color: rgb(75, 108, 161);
+}
+.articlepage .content {
+	margin: 13px 0px 0px; padding: 0px 10px 10px; line-height: 30px; font-size: 15px; border-bottom-color: rgb(216, 216, 216); border-bottom-width: 1px; border-bottom-style: solid; word-break: break-all;
+}
+.articlepage .content img {
+	max-width: 100%;
+}
+.comment {
+	
+}
+.comment h2 {
+	margin: 0px; padding: 10px; line-height: 1.5em; clear: both; font-size: 16px; font-weight: bold; border-bottom-color: rgb(216, 216, 216); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.comment li {
+	margin-bottom: 10px; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.comment .title {
+	margin: 10px; padding: 5px 0px 10px; font-size: 14px; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.comment .infoline {
+	margin-top: 10px;
+}
+.comment .message {
+	margin: 10px 0px; font-size: 14px;
+}
+.forumlist {
+	border-top-color: rgb(213, 213, 213); border-top-width: 1px; border-top-style: solid;
+}
+.forumlist li {
+	height: 45px; line-height: 45px; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.forumlist li a {
+	padding: 0px 10px; font-size: 16px; display: block; position: relative;
+}
+.forumlist li a::after {
+	background-position: -124px -258px; top: 18px; width: 15px; height: 8px; right: 10px; position: absolute; content: ""; -webkit-transform: rotate(90deg); transform: rotate(90deg);
+}
+.threadlist {
+	border-top-color: rgb(213, 213, 213); border-top-width: 1px; border-top-style: solid;
+}
+.threadlist img {
+	border-radius: 2px; width: 50px; height: 50px; margin-right: 10px; float: left;
+}
+.articlelist .article_title {
+	padding: 0px 10px; height: 40px; color: rgb(1, 98, 172); line-height: 40px; font-size: 15px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.threadlist .thread_title {
+	padding: 0px 10px; height: 40px; color: rgb(1, 98, 172); line-height: 40px; font-size: 15px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.threadlist li {
+	border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.threadlist li a {
+	font-size: 16px;
+}
+.threadlist .title {
+	line-height: 22px; overflow: hidden; min-height: 22px; max-height: 44px;
+}
+.threadlist .phototitle {
+	white-space: nowrap; text-overflow: ellipsis; max-height: 22px;
+}
+.threadlist .info {
+	color: rgb(153, 153, 153); font-size: 13px; margin-top: 4px; position: relative;
+}
+.threadlist .num {
+	padding: 0px; top: 0px; right: 0px; bottom: 0px;
+}
+.threadlist .icon {
+	margin: -2px 3px 0px 0px; border-radius: 2px; width: 18px; height: 18px; vertical-align: middle; display: inline-block;
+}
+.postlist h2 .icon {
+	margin: -2px 3px 0px 0px; border-radius: 2px; width: 18px; height: 18px; vertical-align: middle; display: inline-block;
+}
+.threadlist .icon-vate.icon {
+	background-position: -51px -199px;
+}
+.postlist h2 .icon-vate.icon {
+	background-position: -51px -199px;
+}
+.threadlist .icon-floder.icon {
+	background-position: -51px -233px;
+}
+.postlist h2 .icon-floder.icon {
+	background-position: -51px -233px;
+}
+.threadlist .icon-pin.icon {
+	background-position: -51px -266px;
+}
+.postlist h2 .icon-pin.icon {
+	background-position: -51px -266px;
+}
+.threadlist .icon-digest.icon {
+	background-position: -51px -298px;
+}
+.postlist h2 .icon-digest.icon {
+	background-position: -51px -298px;
+}
+.threadlist .icon-hot.icon {
+	background-position: -51px -332px;
+}
+.postlist h2 .icon-hot.icon {
+	background-position: -51px -332px;
+}
+.threadlist .icon-lock.icon {
+	background-position: -51px -365px;
+}
+.postlist h2 .icon-lock.icon {
+	background-position: -51px -365px;
+}
+.threadlist .icon-image.icon {
+	background-position: -77px -199px;
+}
+.postlist h2 .icon-image.icon {
+	background-position: -77px -199px;
+}
+.threadlist .icon-common.icon {
+	background-position: -77px -233px;
+}
+.postlist h2 .icon-common.icon {
+	background-position: -77px -233px;
+}
+.threadlist .icon-activity.icon {
+	background-position: -77px -266px;
+}
+.postlist h2 .icon-activity.icon {
+	background-position: -77px -266px;
+}
+.threadlist .icon-poll.icon {
+	background-position: -77px -298px;
+}
+.postlist h2 .icon-poll.icon {
+	background-position: -77px -298px;
+}
+.threadlist .icon-reward.icon {
+	background-position: -77px -332px;
+}
+.postlist h2 .icon-reward.icon {
+	background-position: -77px -332px;
+}
+.threadlist .icon-debate.icon {
+	background-position: -77px -365px;
+}
+.postlist h2 .icon-debate.icon {
+	background-position: -77px -365px;
+}
+.threadlist .icon-agree.icon {
+	background-position: -77px -365px;
+}
+.postlist h2 .icon-agree.icon {
+	background-position: -77px -365px;
+}
+.photolist li {
+	margin: 20px 10px; background-color: rgb(238, 238, 238);
+}
+.photolist li img {
+	width: 100%;
+}
+.photolist li .image {
+	height: 174px; min-height: 130px; background-size: cover; -moz-background-size: cover;
+}
+.photolist li .title {
+	padding: 8px 10px; line-height: 22px; font-size: 15px;
+}
+.photolist li .image {
+	width: 100%; height: 348px; background-size: cover; -moz-background-size: cover;
+}
+.postlists h2 {
+	background: rgb(230, 230, 230); margin: 0px; padding: 10px 10px 12px; color: rgb(0, 0, 0); line-height: 27px; font-size: 18px; position: relative;
+}
+.postlists h2::after {
+	border-width: 0px 6px 6px; border-style: dashed dashed solid; border-color: transparent transparent rgb(255, 255, 255); left: 23px; width: 0px; height: 0px; bottom: 0px; position: absolute; content: "";
+}
+.plc .avatar img {
+	width: 32px; height: 32px;
+}
+.plc .pi {
+	padding: 10px 0px;
+}
+.plc .pi .authi li span {
+	padding: 0px 5px 0px 15px; position: relative;
+}
+.plc .dateline span {
+	padding: 0px 5px 0px 15px; position: relative;
+}
+.plc .pi .authi li .posttime {
+	
+}
+.plc .pi .authi li em {
+	position: relative;
+}
+.plc .dateline em {
+	position: relative;
+}
+.plc .pi .authi li em a {
+	padding-left: 19px;
+}
+.plc .dateline em a {
+	padding-left: 19px;
+}
+.plc .pi .authi li em sup {
+	top: -3px; position: absolute;
+}
+.plc .pi .authi li span .icon-time {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .dateline span .icon-time {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .pi .authi li span .icon-view {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .pi .authi li span .icon-comment {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .pi .authi li em .icon-settop {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .pi .authi li em .icon-agree {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .pi .authi li em .icon-fav {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .pi .authi li em .icon-manage {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .pi .authi li em .icon-reply {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .dateline em .icon-agree {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .dateline em .icon-reply {
+	background-position: -224px -256px; left: 0px; width: 20px; height: 20px; vertical-align: middle; position: absolute;
+}
+.plc .pi .authi li em .on.icon-fav {
+	background-position: -224px -276px;
+}
+.plc .pi .authi li em .icon-manage {
+	background-position: -225px -355px;
+}
+.plc .pi .authi li em .icon-settop {
+	background-position: -162px -338px; left: -22px;
+}
+.plc .pi .authi li em .icon-agree {
+	background-position: -225px -295px;
+}
+.plc .dateline em .icon-agree {
+	background-position: -225px -295px;
+}
+.plc .pi .authi li em .icon-reply {
+	background-position: -225px -375px;
+}
+.plc .dateline em .icon-reply {
+	background-position: -225px -375px;
+}
+.plc .pi .authi li span .icon-time {
+	background-position: -225px -295px; left: -4px;
+}
+.plc .dateline span .icon-time {
+	background-position: -225px -295px; left: -4px;
+}
+.plc .pi .authi li span .icon-view {
+	background-position: -224px -315px; left: -5px;
+}
+.plc .pi .authi li span .icon-comment {
+	background-position: -224px -335px; left: -5px;
+}
+.plc .pi .message {
+	padding: 12px 0px;
+}
+.plc .pi .message a:link {
+	color: rgb(26, 113, 222);
+}
+.plc .pi .message a:visited {
+	color: rgb(26, 113, 222);
+}
+.plc .pi .message a:hover {
+	color: rgb(26, 113, 222);
+}
+.plc .pi .message .pstatus {
+	color: rgb(165, 165, 165); font-size: 13px;
+}
+.plc .pi .message .extimg {
+	margin: 7px auto; text-align: center;
+}
+.plc .pi .message .extimg img {
+	max-width: 100%;
+}
+.plc .pi .message .extimg i {
+	background-position: -159px -365px; width: 26px; height: 25px; right: -8px; bottom: -5px; display: inline-block; position: absolute;
+}
+.plc .pi .message img {
+	margin: 0px; max-height: 600px; max-width: 100%;
+}
+.plc .pi .img_one img {
+	margin: 0px; max-height: 600px; max-width: 100%;
+}
+.plc .dateline {
+	margin: 0px 10px 10px;
+}
+.attach {
+	margin: 10px 0px;
+}
+.attach .attnm img {
+	width: 16px; height: 16px; vertical-align: -3px;
+}
+.btn_pn {
+	margin: 0px 10px; border-radius: 3px; width: 55px; height: 30px; line-height: 30px;
+}
+.btn_pn_grey {
+	background: rgb(239, 239, 239); border: currentColor;
+}
+.btn_pn_blue {
+	background: rgb(36, 152, 216); border: currentColor;
+}
+.post_tag {
+	margin: 0px 10px 10px; font-size: 14px;
+}
+.post_photo {
+	background-position: -7px -117px; margin: 0px 5px; width: 30px; height: 30px; overflow: hidden; display: inline-block;
+}
+.post_imgtip {
+	padding: 10px; line-height: 22px;
+}
+.post_imgtip span {
+	color: rgb(153, 153, 153);
+}
+.icon_del {
+	background-position: -157px -271px; width: 30px; height: 30px; overflow: hidden; margin-left: -5px; display: inline-block;
+}
+.fastpost {
+	padding: 10px;
+}
+.fastpost .input {
+	border-radius: 3px; border: 1px solid rgb(217, 216, 216); box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+.fastpost .post_photo {
+	margin: 6px 0px 0px -4px;
+}
+.activityjoin {
+	margin: 10px 0px;
+}
+.activityjoincancel {
+	margin: 10px 0px;
+}
+.activityjoin .input {
+	border-radius: 3px; border: 1px solid rgb(217, 216, 216); width: 100%; height: 34px; text-indent: 7px; margin-top: 2px; box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+.activityjoincancel .input {
+	border-radius: 3px; border: 1px solid rgb(217, 216, 216); width: 100%; height: 34px; text-indent: 7px; margin-top: 2px; box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+.activitylist p {
+	font-weight: bold;
+}
+.activitylist li {
+	padding: 5px 0px; font-size: 14px;
+}
+.activitylist li i {
+	color: rgb(165, 165, 165); margin-left: 5px;
+}
+.activitylist li span {
+	color: rgb(165, 165, 165); float: right;
+}
+.polllist p {
+	padding: 2px 0px;
+}
+.button {
+	background: rgb(36, 152, 216); border-radius: 3px; border: currentColor;
+}
+.button2 {
+	background: rgb(36, 152, 216); border-radius: 3px; border: currentColor;
+}
+.button {
+	margin: 3px; width: 55px; height: 30px; line-height: 30px; float: left;
+}
+.button2 {
+	width: 55px; height: 30px; line-height: 30px;
+}
+.button3 {
+	background: rgb(36, 152, 216); border-radius: 3px; border: currentColor; width: 100%; height: 34px; color: rgb(255, 255, 255); line-height: 34px; font-weight: bold;
+}
+.post_msg_from li {
+	padding: 10px; line-height: 22px;
+}
+.post_from li {
+	padding: 10px; line-height: 22px;
+}
+.post_msg_from textarea {
+	padding: 0px;
+}
+.post_from textarea {
+	padding: 0px;
+}
+.post_msg_from .btn_pn {
+	margin: 0px; width: 100%; height: 34px; line-height: 34px;
+}
+.user_cover {
+	top: -44px; height: 160px; margin-bottom: -44px; display: block; position: relative; background-image: url("user_cover.jpg"); background-repeat: no-repeat; background-size: 100%;
+}
+.user_avatar {
+	margin: 0px; top: 128px; width: 100%; text-align: left; position: absolute;
+}
+.user_avatar img {
+	border-radius: 2px; box-shadow: 0px 0px 1px rgba(0,0,0,0.3);
+}
+.user_info {
+	margin: 28px 0px 0px 88px; color: rgb(153, 153, 153);
+}
+.user_avatar .name {
+	font-weight: normal; margin-right: 10px; display: inline-block;
+}
+.user_avatar .avatar_m {
+	margin-left: 15px;
+}
+.user_sign {
+	height: 26px; color: rgb(153, 153, 153); line-height: 26px; overflow: hidden; font-size: 14px; margin-left: 15px; white-space: nowrap; text-overflow: ellipsis;
+}
+.user_box {
+	margin: 45px 10px 10px; border-radius: 0px; border: currentColor;
+}
+.user_box li {
+	border-color: rgb(238, 238, 238); padding: 6px 0px; width: 50%; color: rgb(153, 153, 153); line-height: 26px; font-weight: normal; float: left;
+}
+.user_box li em {
+	padding: 5px; color: rgb(51, 51, 51);
+}
+.user_box li.line {
+	width: 100%;
+}
+.user_list {
+	padding: 0px 10px; height: 60px; margin-top: 70px; border-top-color: rgb(238, 238, 238); border-bottom-color: rgb(213, 213, 213); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.user_list li {
+	width: 25%; height: 60px; text-align: center; line-height: 22px; float: left; position: relative;
+}
+.user_list li a {
+	padding: 8px 0px; font-size: 16px; display: block;
+}
+.user_list li.line::after {
+	background: rgb(238, 238, 238); top: 15px; width: 1px; height: 30px; right: 0px; position: absolute; content: " ";
+}
+.his.user_list li {
+	width: 33.3%;
+}
+.user_list .new {
+	background: rgb(255, 84, 96); margin: 5px 0px; border-radius: 15px; border: 2px solid rgb(255, 255, 255); top: 0px; width: 8px; height: 8px; display: inline-block; position: absolute; box-shadow: 0px 1px 2px rgba(0,0,0,0.15);
+}
+.dialog_gray {
+	background: rgb(235, 251, 227); margin: 0px 12px 20px; padding: 5px 9px; border-radius: 2px; border: 1px solid rgb(223, 240, 216); position: relative; min-width: 88px; max-width: 270px;
+}
+.dialog_green {
+	background: rgb(235, 251, 227); margin: 0px 12px 20px; padding: 5px 9px; border-radius: 2px; border: 1px solid rgb(223, 240, 216); position: relative; min-width: 88px; max-width: 270px;
+}
+.dialog_gray {
+	background: rgb(243, 243, 243); border-color: rgb(234, 234, 234);
+}
+.dialog_gray::after {
+	border-width: 1px 1px 0px 0px; border-style: solid; border-color: rgb(234, 234, 234); top: 8px; width: 8px; height: 8px; right: -5px; position: absolute; content: " "; -ms-transform: rotate(45deg); background-color: rgb(243, 243, 243); -webkit-transform: rotate(45deg); transform: rotate(45deg);
+}
+.dialog_green::before {
+	border-width: 0px 0px 1px 1px; border-style: solid; border-color: rgb(223, 240, 216); left: -5px; top: 8px; width: 8px; height: 8px; position: absolute; content: " "; background-color: rgb(235, 251, 227); -webkit-transform: rotate(45deg); transform: rotate(45deg);
+}
+.dialog_gray .date {
+	right: 0px; margin-top: 10px; position: absolute;
+}
+.dialog_green .date {
+	right: 0px; margin-top: 10px; position: absolute;
+}
+.dialog_green .date {
+	left: 0px;
+}
+.dialog_txt {
+	line-height: 25px; font-size: 15px; min-height: 25px;
+}
+.avat img {
+	width: 30px; height: 30px;
+}
+.sec_code input {
+	border: 1px solid rgb(221, 221, 221);
+}
+#messagetext .button {
+	margin-top: 10px; float: none;
+}

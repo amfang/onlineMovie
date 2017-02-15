@@ -1,0 +1,4 @@
+.appdown{ display:none; width:100%; height:60px;  position:relative;}
+.appdown img{ display:block; width:100%;height:100%;}
+.appdown .close{ display:block; width:20px; height:20px; background:url('icon40close.png') center center no-repeat; position:absolute; top:0; right:5px; z-index:100; overflow:hidden;}
+.header{position:fixed;bottom:0px;height:60px;width:100%;}

@@ -1,0 +1,834 @@
+* {
+	word-wrap: break-word;
+}
+img {
+	margin: 0px; padding: 0px; border: 0px currentColor;
+}
+a img {
+	margin: 0px; padding: 0px; border: 0px currentColor;
+}
+ul {
+	list-style: none;
+}
+ol {
+	list-style: none;
+}
+li {
+	list-style: none;
+}
+* {
+	margin: 0px; padding: 0px;
+}
+html {
+	font: 12px/1.6 Microsoft YaHei, Helvetica, sans-serif; height: 100%; color: rgb(76, 76, 76); font-size-adjust: none; font-stretch: normal;
+}
+body {
+	font: 12px/1.6 Microsoft YaHei, Helvetica, sans-serif; height: 100%; color: rgb(76, 76, 76); font-size-adjust: none; font-stretch: normal;
+}
+input {
+	font: 14px/1.5 Microsoft YaHei, Helvetica, sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+select {
+	font: 14px/1.5 Microsoft YaHei, Helvetica, sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+textarea {
+	font: 14px/1.5 Microsoft YaHei, Helvetica, sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+button {
+	font: 14px/1.5 Microsoft YaHei, Helvetica, sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+body {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+ol {
+	margin: 0px; padding: 0px;
+}
+li {
+	margin: 0px; padding: 0px;
+}
+dl {
+	margin: 0px; padding: 0px;
+}
+dd {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+h1 {
+	margin: 0px; padding: 0px;
+}
+h2 {
+	margin: 0px; padding: 0px;
+}
+h3 {
+	margin: 0px; padding: 0px;
+}
+h4 {
+	margin: 0px; padding: 0px;
+}
+h5 {
+	margin: 0px; padding: 0px;
+}
+h6 {
+	margin: 0px; padding: 0px;
+}
+form {
+	margin: 0px; padding: 0px;
+}
+fieldset {
+	margin: 0px; padding: 0px;
+}
+.pr {
+	margin: 0px; padding: 0px;
+}
+.pc {
+	margin: 0px; padding: 0px;
+}
+table {
+	border-collapse: collapse; empty-cells: show;
+}
+caption {
+	text-align: left; font-weight: 400;
+}
+th {
+	text-align: left; font-weight: 400;
+}
+ul li {
+	list-style: none;
+}
+.xl li {
+	list-style: none;
+}
+h1 {
+	font-size: 1em;
+}
+h2 {
+	font-size: 1em;
+}
+h3 {
+	font-size: 1em;
+}
+h4 {
+	font-size: 1em;
+}
+h5 {
+	font-size: 1em;
+}
+h6 {
+	font-size: 1em;
+}
+em {
+	font-style: normal;
+}
+cite {
+	font-style: normal;
+}
+i {
+	font-style: normal;
+}
+a img {
+	border: currentColor;
+}
+label {
+	cursor: pointer;
+}
+.bg {
+	background: url("pic_bg.jpg");
+}
+.rq {
+	color: red;
+}
+a:link {
+	color: rgb(76, 76, 76); text-decoration: none;
+}
+a:visited {
+	color: rgb(76, 76, 76); text-decoration: none;
+}
+a:hover {
+	color: rgb(76, 76, 76); text-decoration: none;
+}
+.blue {
+	color: rgb(0, 134, 206);
+}
+a.blue:link {
+	color: rgb(0, 134, 206); text-decoration: none;
+}
+a.blue:visited {
+	color: rgb(0, 134, 206); text-decoration: none;
+}
+a.blue:hover {
+	color: rgb(0, 134, 206); text-decoration: none;
+}
+.grey {
+	color: rgb(156, 156, 156);
+}
+a.grey:link {
+	color: rgb(156, 156, 156); text-decoration: none;
+}
+a.grey:visited {
+	color: rgb(156, 156, 156); text-decoration: none;
+}
+a.grey:hover {
+	color: rgb(156, 156, 156); text-decoration: none;
+}
+.orange {
+	color: rgb(255, 102, 0);
+}
+a.orange:link {
+	color: rgb(255, 102, 0); text-decoration: none;
+}
+a.orange:visited {
+	color: rgb(255, 102, 0); text-decoration: none;
+}
+a.orange:hover {
+	color: rgb(255, 102, 0); text-decoration: none;
+}
+.z {
+	float: left;
+}
+.y {
+	float: right;
+}
+.cl::after {
+	height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+.cl {
+	zoom: 1;
+}
+.overflow {
+	overflow: hidden;
+}
+.none {
+	display: none;
+}
+.vm {
+	vertical-align: middle;
+}
+.vm * {
+	vertical-align: middle;
+}
+.hm {
+	text-align: center;
+}
+.bl_none {
+	border-bottom-color: currentColor !important; border-bottom-width: 0px !important; border-bottom-style: none !important;
+}
+.bl_line {
+	border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.b_radius {
+	border-radius: 10px;
+}
+.b_m {
+	margin: 10px;
+}
+.b_p {
+	padding: 10px;
+}
+.mtn {
+	margin-top: 5px !important;
+}
+.mbn {
+	margin-bottom: 5px !important;
+}
+.mtm {
+	margin-top: 10px !important;
+}
+.mbm {
+	margin-bottom: 10px !important;
+}
+.mtw {
+	margin-top: 20px !important;
+}
+.mbw {
+	margin-bottom: 20px !important;
+}
+.pr {
+	margin: 0px 5px 1px 0px; padding: 0px; vertical-align: middle; _margin-right: 2px;
+}
+.pc {
+	margin: 0px 5px 1px 0px; padding: 0px; vertical-align: middle; _margin-right: 2px;
+}
+.visitclienttip {
+	background: rgb(189, 213, 230); padding: 5px 10px; height: 30px; border-bottom-color: rgb(247, 247, 247); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.visitclienttip p {
+	line-height: 30px;
+}
+.visitclienttip a.btn_download {
+	background: rgb(61, 152, 207); border-radius: 5px; width: 70px; text-align: center; color: rgb(233, 239, 243); line-height: 24px; margin-top: 3px; float: right; display: block; box-shadow: 1px 2px 2px rgba(0,0,0,0.1);
+}
+.visitclienttip a.btn_download:hover {
+	background: rgb(48, 148, 207);
+}
+.nav {
+	background: url("header_bg.jpg"); padding: 8px 10px 8px 0px; height: 32px; text-align: center; font-size: 19px;
+}
+.nav .name {
+	width: 50%; height: 30px; overflow: hidden; display: inline-block; white-space: nowrap;
+}
+.hdc {
+	background: url("nav_b_line.png") repeat-x 0px 100%; padding: 10px 10px 0px; margin-bottom: 10px;
+}
+.hdc h2 {
+	padding: 0px 20px 8px 10px; float: left;
+}
+.user_fun {
+	
+}
+.user_fun li {
+	padding: 15px 5px 20px; float: right;
+}
+.user_fun li a {
+	background: url("icon.png") no-repeat; width: 28px; height: 28px; line-height: 2000px; overflow: hidden; display: block;
+}
+.nav .icon_edit a {
+	background: url("icon.png") no-repeat; width: 28px; height: 28px; line-height: 2000px; overflow: hidden; display: block;
+}
+.user_fun .on {
+	background: url("arrow_top.png") no-repeat 50% 100%;
+}
+.user_fun a.icon_userinfo {
+	
+}
+.user_fun a.icon_userinfo:hover {
+	background-position: 0px -28px;
+}
+.user_fun .on a.icon_userinfo {
+	background-position: 0px -28px;
+}
+.user_fun a.icon_threadlist {
+	background-position: -28px 0px;
+}
+.user_fun a.icon_threadlist:hover {
+	background-position: -28px -28px;
+}
+.user_fun .on a.icon_threadlist {
+	background-position: -28px -28px;
+}
+.user_fun a.icon_search {
+	background-position: -56px 0px;
+}
+.user_fun a.icon_search:hover {
+	background-position: -56px -28px;
+}
+.user_fun .on a.icon_search {
+	background-position: -56px -28px;
+}
+.user_fun a.icon_hotthread {
+	background-position: -112px 0px;
+}
+.user_fun a.icon_hotthread:hover {
+	background-position: -112px -28px;
+}
+.user_fun .on a.icon_hotthread {
+	background-position: -112px -28px;
+}
+#usermsg {
+	position: relative;
+}
+.user_fun .icon_msg {
+	background: url("icon_msg.png") no-repeat; left: 26px; top: 14px; width: 10px; height: 10px; display: block; position: absolute;
+}
+.nav .icon_edit a {
+	background-position: -84px 0px;
+}
+.nav .icon_edit a:hover {
+	background-position: -84px -28px;
+}
+.category {
+	position: relative;
+}
+.category .name {
+	padding: 0px 10px; width: 50%; height: 30px; color: rgb(51, 51, 51); overflow: hidden; display: inline-block; white-space: nowrap;
+}
+.category .name img {
+	margin-left: 10px; vertical-align: middle;
+}
+.category .name .tit {
+	overflow: hidden; font-weight: 400; display: inline-block; white-space: nowrap; max-width: 90%;
+}
+.category .subname_list {
+	left: 0px; top: 35px; width: 100%; position: absolute; z-index: 10;
+}
+.category .subname_list ul {
+	background: rgb(255, 255, 255); border-width: 0px 2px 2px; border-style: none solid solid; border-color: currentColor rgb(221, 221, 221) rgb(221, 221, 221); margin: 0px auto; padding: 0px; width: 118px; line-height: 38px; font-size: 14px; box-shadow: 1px 2px 2px rgba(0,0,0,0.3);
+}
+.category .subname_list li {
+	border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.category .subname_list a:hover {
+	color: rgb(39, 130, 186);
+}
+.category .subname_list a {
+	margin: 0px 10px; overflow: hidden; display: block; white-space: nowrap;
+}
+.wp {
+	
+}
+.wm {
+	margin: 0px 10px;
+}
+.bm {
+	margin-bottom: 10px;
+}
+.bm_c {
+	padding: 0px 10px;
+}
+.bm_h .o {
+	width: 31px; float: right;
+}
+.bm_h .o img {
+	float: right; cursor: pointer;
+}
+.bm_h .i {
+	padding-left: 10px;
+}
+.bm_h .pn {
+	margin-top: 4px;
+}
+.bm_h {
+	background: url("titlebg.png") repeat-x left bottom; height: 54px; line-height: 54px; overflow: hidden; white-space: nowrap;
+}
+.bm_h h2 {
+	background: url("titlebg.png") no-repeat left top; height: 54px;
+}
+.bm_h:hover {
+	background: url("titlebg.png") repeat-x left -54px;
+}
+.bm_h h2 a {
+	margin: 0px 31px 0px 10px; line-height: 54px; padding-left: 10px; font-size: 18px; font-weight: 400; display: block;
+}
+.sub_forum {
+	background: rgb(255, 255, 255); border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentColor rgb(237, 237, 237) rgb(237, 237, 237); border-radius: 0px 0px 5px 5px;
+}
+.sub_forum li {
+	height: 38px; line-height: 38px; overflow: hidden; font-size: 16px; border-bottom-color: rgb(237, 237, 237); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.sub_forum li:last-child {
+	border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.sub_forum li a {
+	padding: 0px 10px; display: block;
+}
+.sub_forum li .num {
+	background: rgb(53, 163, 230); padding: 0px 10px; border-radius: 10px; height: 25px; color: rgb(255, 255, 255); line-height: 25px; font-size: 14px; margin-top: 7px; float: right;
+}
+.threadlist {
+	padding: 0px;
+}
+.threadlist .thread_tit {
+	padding: 0px 10px; color: rgb(1, 98, 172); line-height: 40px; font-size: 15px; border-bottom-color: rgb(217, 216, 216); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.threadlist li {
+	font-size: 16px; border-bottom-color: rgb(217, 216, 216); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.threadlist li a {
+	padding: 7px 10px; line-height: 25px; font-size: 16px; display: block;
+}
+.threadlist .num {
+	background: url("icon_num.png") no-repeat 0px 3px; padding: 0px 0px 0px 18px; right: 10px; bottom: 10px; color: rgb(192, 192, 192); font-size: 12px; position: absolute;
+}
+.threadlist .icon_top {
+	left: 0px; top: -1px; position: absolute;
+}
+.threadlist .icon_tu {
+	left: 0px; top: -1px; position: absolute;
+}
+.threadlist .by {
+	color: rgb(165, 165, 165); font-size: 12px; display: block;
+}
+.btn_pn {
+	border: 0px currentColor; width: 44px; height: 31px; line-height: 31px; overflow: hidden;
+}
+.btn_pn_grey {
+	background: url("btn_s_bg.png") no-repeat 0px 0px rgb(239, 239, 239); color: rgb(153, 153, 153);
+}
+.btn_pn_blue {
+	background: url("btn_s_bg.png") no-repeat 0px -31px rgb(36, 152, 216); color: rgb(255, 255, 255);
+}
+.post_msg_from li {
+	padding: 0px 10px; line-height: 38px; font-size: 16px;
+}
+.post_from li {
+	padding: 0px 10px; line-height: 38px; font-size: 16px;
+}
+.post_msg_from .px {
+	padding: 0px; width: 100%; font-size: 16px;
+}
+.post_from .px {
+	padding: 0px; width: 100%; font-size: 16px;
+}
+.post_msg_from textarea {
+	padding: 5px 0px; border: 0px currentColor; width: 100%; font-size: 16px;
+}
+.post_from textarea {
+	padding: 5px 0px; border: 0px currentColor; width: 100%; font-size: 16px;
+}
+.post_from .sort_sel {
+	border: 0px currentColor; width: 100%; color: graytext; font-size: 16px; margin-left: -2px;
+}
+.post_imglist {
+	padding: 15px 0px 0px 15px;
+}
+.post_imglist li {
+	padding: 0px 10px 0px 0px; float: left; position: relative;
+}
+.post_imglist li .del {
+	left: -5px; top: -10px; position: absolute;
+}
+.post_imglist li .p_img img {
+	padding: 2px; border: 1px solid rgb(221, 221, 221);
+}
+.sec_code {
+	padding: 10px; color: rgb(153, 153, 153);
+}
+.sec_code .px {
+	color: rgb(153, 153, 153);
+}
+.postlist h2 {
+	margin: 5px 10px 0px; line-height: 1.5em; clear: both; font-size: 16px; font-weight: bold;
+}
+.plc {
+	overflow: hidden; border-bottom-color: rgb(217, 216, 216); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.plc .avatar {
+	left: 10px; top: 9px; display: inline; position: absolute;
+}
+.plc .avatar img {
+	padding: 1px; border: 1px solid rgb(215, 215, 215);
+}
+.plc .pi {
+	padding: 7px 0px; margin-right: 10px; margin-left: 55px; position: relative;
+}
+.plc .pi .authi {
+	position: relative;
+}
+.plc .pi .authi li em {
+	font-style: normal; float: right;
+}
+.plc .pi .message {
+	font-size: 15px;
+}
+.plc .pi .message .jammer {
+	color: rgb(240, 240, 240); font-size: 10px;
+}
+.plc .pi .message img {
+	margin: 0px 4px 0px 0px; max-height: 140px; max-width: 140px;
+}
+.plc .pi .img_one img {
+	margin: 0px 4px 0px 0px; max-height: 140px; max-width: 140px;
+}
+.plc .pi .message .quote {
+	margin: 5px 0px; padding: 10px 10px 7px 11px; border: 1px dashed rgb(215, 215, 215); font-size: 12px;
+}
+.plc .pi .img_list {
+	margin: 4px auto;
+}
+.plc .pi .img_list li {
+	margin: 0px 4px 4px; width: 83px; height: 83px; text-align: center; line-height: 83px; vertical-align: middle; float: left;
+}
+.plc .pi .img_list li a {
+	display: block;
+}
+.manage {
+	margin: 4px -10px 0px 0px; top: 38px; height: 50px; right: 5px; position: absolute;
+}
+.button {
+	background: url("button_bg.png") no-repeat; margin: 0px 2px; border: 0px currentColor; width: 53px; height: 39px; color: rgb(255, 255, 255); font-size: 12px;
+}
+.button2 {
+	background: url("button_bg2.png") no-repeat; margin: 7px 0px 3px; border: 0px currentColor; width: 50px; height: 32px; color: rgb(255, 255, 255); font-size: 12px;
+}
+.fastpost .input {
+	border: 1px solid rgb(217, 216, 216); width: 100%; height: 34px; text-indent: 7px; margin-top: 2px;
+}
+.search {
+	padding: 7px 10px;
+}
+.search .input {
+	border: 1px solid rgb(217, 216, 216); width: 100%; height: 30px; text-indent: 7px; margin-top: 2px;
+}
+.tip {
+	background: url("pic_bg.jpg"); margin: 0px auto; border-radius: 5px; border: 1px solid rgb(215, 215, 215); width: 300px; height: 180px; text-align: center; -moz-border-radius: 5px; -webkit-border-radius: 5px;
+}
+.tip dt {
+	padding: 30px 20px; height: 75px; font-size: 15px;
+}
+.tip dd {
+	background: rgb(255, 255, 255); border-top-color: rgb(215, 215, 215); border-top-width: 1px; border-top-style: solid;
+}
+.tip dd a {
+	margin-left: 15px;
+}
+.page {
+	margin: 20px 10px; text-align: center;
+}
+.page a {
+	background: rgb(255, 255, 255); padding: 5px 9px; border-radius: 5px; border: 1px solid rgb(215, 215, 215);
+}
+.page select {
+	border: 1px solid rgb(204, 204, 204); height: 28px;
+}
+.user_avatar {
+	margin: 20px 0px; text-align: center;
+}
+.user_avatar img {
+	border-radius: 45px; border: 1px solid rgb(255, 255, 255); width: 60px; height: 60px; box-shadow: 1px 2px 2px rgba(0,0,0,0.3);
+}
+.user_avatar .name {
+	color: rgb(39, 130, 186); line-height: 40px; font-size: 16px;
+}
+.user_box {
+	background: rgb(255, 255, 255); margin: 0px 10px; border-radius: 10px; border: 1px solid rgb(221, 221, 221);
+}
+.user_box li {
+	padding: 0px 20px 0px 10px; color: rgb(51, 51, 51); line-height: 38px; font-size: 14px; font-weight: 700; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.user_box li span {
+	color: rgb(39, 130, 186); float: right;
+}
+.btn_exit {
+	padding: 10px;
+}
+.btn_exit a {
+	background: url("exit.png") no-repeat; margin: 0px auto; width: 300px; height: 41px; line-height: 2000px; overflow: hidden; display: block;
+}
+.btn_exit a:hover {
+	background: url("exit_on.png") no-repeat;
+}
+.myinfo_list {
+	margin: 0px auto; width: 300px;
+}
+.myinfo_list li {
+	background: url("my_subject_bg.png") no-repeat; margin: 0px 0px 10px 5px; width: 145px; height: 73px; float: left;
+}
+.myinfo_list li a {
+	text-align: center; line-height: 73px; font-size: 16px; display: block;
+}
+.tit_msg {
+	position: relative;
+}
+.tit_msg img {
+	left: 108px; top: 28px; position: absolute;
+}
+.friend_msg {
+	padding: 5px 0px;
+}
+.friend_msg .avat img {
+	background: rgb(242, 242, 242); padding: 1px; border: 1px solid rgb(186, 186, 186); display: inline-block;
+}
+.self_msg .avat img {
+	background: rgb(242, 242, 242); padding: 1px; border: 1px solid rgb(186, 186, 186); display: inline-block;
+}
+.self_msg {
+	padding: 5px 0px;
+}
+.friend_msg .date {
+	color: rgb(190, 190, 189); padding-left: 12px;
+}
+.self_msg .date {
+	text-align: right; color: rgb(190, 190, 189); padding-right: 12px;
+}
+.dialog_green .dialog_c {
+	background: url("dialog_bg.png") repeat-y; width: 230px;
+}
+.dialog_green .dialog_t {
+	background: url("dialog_t.png") no-repeat left top; padding: 15px 25px 0px; width: 180px; line-height: 25px; font-size: 15px;
+}
+.dialog_green .dialog_b {
+	background: url("dialog_b.png") no-repeat left bottom; width: 230px; height: 17px; overflow: hidden;
+}
+.dialog_white .dialog_c {
+	background: url("dialog_bg.png") repeat-y right top; width: 230px;
+}
+.dialog_white .dialog_t {
+	background: url("dialog_t.png") no-repeat right top; padding: 15px 25px 0px; width: 180px; line-height: 25px; font-size: 15px;
+}
+.dialog_white .dialog_b {
+	background: url("dialog_b.png") no-repeat right bottom; width: 230px; height: 17px; overflow: hidden;
+}
+.reply .px {
+	padding: 7px 10px; border-radius: 4px; border: 1px solid rgb(217, 216, 216); width: 95%;
+}
+.reply .px:focus {
+	color: rgb(76, 76, 76);
+}
+.loginbox {
+	padding: 10px;
+}
+.login_from {
+	background: rgb(255, 255, 255); border-radius: 10px; border: 1px solid rgb(221, 221, 221); margin-bottom: 15px;
+}
+.login_from li {
+	padding: 0px 10px; color: rgb(175, 175, 175); line-height: 45px; font-size: 14px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.btn_login .pn {
+	background: url("login.png") no-repeat; margin: 0px auto; border: 0px currentColor; width: 289px; height: 45px; text-align: center; color: rgb(255, 255, 255); line-height: 46px; overflow: hidden; font-size: 16px; font-weight: 700; display: block;
+}
+.btn_register .pn {
+	background: url("login.png") no-repeat; margin: 0px auto; border: 0px currentColor; width: 289px; height: 45px; text-align: center; color: rgb(255, 255, 255); line-height: 46px; overflow: hidden; font-size: 16px; font-weight: 700; display: block;
+}
+.btn_login .pn:hover {
+	background: url("login_on.png") no-repeat; color: rgb(240, 239, 239);
+}
+.btn_register .pn:hover {
+	background: url("login_on.png") no-repeat; color: rgb(240, 239, 239);
+}
+.btn_qqlogin a {
+	background: url("qqlogin.png") no-repeat; margin: 0px auto; width: 300px; height: 45px; line-height: 2000px; overflow: hidden; display: block;
+}
+.btn_qqlogin a:hover {
+	background: url("qqlogin_on.png") no-repeat;
+}
+.loginbox p {
+	color: rgb(175, 175, 175); line-height: 35px; font-size: 14px;
+}
+.reg_link a {
+	background: url("icon_arrow.png") no-repeat 100%; color: rgb(175, 175, 175); padding-right: 10px;
+}
+.px {
+	padding: 2px 4px; border: 1px solid rgb(221, 221, 221); line-height: 17px; font-size: 15px;
+}
+.px:focus {
+	color: rgb(76, 76, 76);
+}
+.p_fre {
+	width: auto !important;
+}
+.sel_list {
+	padding: 2px 4px; border: 0px currentColor; width: 100%; font-size: 14px; font-weight: 700;
+}
+.login_select {
+	display: block; position: relative;
+}
+.login_select .login-btn-inner {
+	overflow: hidden; font-size: 14px; font-weight: 700; display: block; white-space: nowrap; position: relative; text-overflow: ellipsis; min-width: 0.75em;
+}
+.login_select select {
+	left: 0px; top: 0px; width: 100%; height: 3em; position: absolute; z-index: 2; cursor: pointer; min-height: 100%; max-height: 100%; opacity: 0.0001;
+}
+.login-btn-text {
+	float: left;
+}
+.login_select .icon-arrow {
+	background: url("icon_arrow.png") no-repeat 15px 17px; width: 30px; height: 30px; float: right;
+}
+.login_pop {
+	background: rgb(241, 241, 241); padding: 0px 14px 20px;
+}
+.log_tit {
+	text-align: center; line-height: 45px; font-size: 16px; font-weight: 700;
+}
+.icon_close {
+	background: url("icon_close.png") no-repeat 0px 0px; width: 13px; height: 11px; overflow: hidden; margin-top: 17px; display: block;
+}
+.btn_qqlogintext {
+	margin: 10px 0px;
+}
+.btn_qqlogintext a.text_qqlogin {
+	background: url("qqlogintext.png") no-repeat; width: 120px; height: 25px; line-height: 2000px; overflow: hidden; display: block;
+}
+.login_pop .login_from {
+	margin-bottom: 10px;
+}
+.login_pop .login_check {
+	margin: 0px 0px 10px; color: rgb(165, 165, 165);
+}
+.q_reg a {
+	color: rgb(165, 165, 165); font-size: 14px;
+}
+.s_code {
+	color: rgb(165, 165, 165);
+}
+.s_code .px {
+	color: rgb(165, 165, 165);
+}
+.s_code .px:focus {
+	color: rgb(76, 76, 76);
+}
+a.other_c {
+	color: rgb(165, 165, 165); margin-left: 5px;
+}
+.coll_list {
+	background: rgb(255, 255, 255); margin: 10px; padding: 0px 10px; border: 1px solid rgb(221, 221, 221);
+}
+.coll_list li {
+	line-height: 45px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.coll_list li a {
+	padding: 0px 0px 0px 10px; font-size: 16px; display: block;
+}
+.jump_c {
+	padding: 130px 25px; font-size: 15px;
+}
+.grey {
+	color: rgb(165, 165, 165);
+}
+.jump_c a {
+	color: rgb(39, 130, 186);
+}
+.pmbox li {
+	height: 55px; color: rgb(165, 165, 165); overflow: hidden; font-size: 14px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.pmbox li .avatar_img img {
+	background: rgb(242, 242, 242); padding: 2px; border: 1px solid rgb(233, 233, 233); left: 10px; top: 7px; display: inline-block; position: absolute;
+}
+.pmbox li a {
+	padding: 5px 10px 5px 55px; display: block;
+}
+.pmbox li .num {
+	background: rgb(53, 163, 230); padding: 0px 10px; border-radius: 10px; height: 21px; color: rgb(255, 255, 255); line-height: 21px; font-size: 14px; float: right;
+}
+.pmbox li .time {
+	float: right;
+}
+.pmbox li .name {
+	color: rgb(51, 51, 51);
+}
+.grey {
+	color: rgb(165, 165, 165);
+}
+.clew_con {
+	padding: 10px;
+}
+.clew_con .tit {
+	line-height: 40px; font-size: 14px;
+}
+.clew_con p {
+	margin: 10px 0px;
+}
+.clew_con .button {
+	background: rgb(61, 152, 207); border-radius: 5px; width: 80px; height: 26px; text-align: center; color: rgb(233, 239, 243); line-height: 24px; margin-top: 3px; margin-left: 6px; display: inline-block; cursor: pointer; box-shadow: 1px 2px 2px rgba(0,0,0,0.1);
+}
+.clew_con .button:hover {
+	background: rgb(48, 148, 207);
+}
+.footer {
+	padding: 10px 0px 0px; text-align: center; color: rgb(165, 165, 165); line-height: 2em;
+}
+.footer a {
+	margin: 0px 6px; color: rgb(165, 165, 165);
+}
+.scrolltop {
+	background: rgba(64, 64, 64, 0.9); border-radius: 1px; width: 38px; height: 38px; right: 8px; display: block; position: fixed; z-index: 99; box-shadow: 0px 0px 2px rgba(0,0,0,0.3);
+}
+.scrolltop::after {
+	background: white; border-radius: 1px; left: 10px; top: 11px; width: 18px; height: 3px; position: absolute; content: "";
+}
+.scrolltop::before {
+	border-width: 0px 9px 9px; border-style: none solid solid; border-color: currentColor transparent white; left: 10px; top: 15px; display: inline-block; position: absolute; content: ""; -webkit-transform: translate(0, 1px); transform: translate(0, 1px);
+}
+.bottom.scrolltop {
+	bottom: 8px;
+}
+.bottom.scrolltop::after {
+	top: 23px;
+}
+.bottom.scrolltop::before {
+	top: 12px; border-top-color: white; border-bottom-color: currentColor; border-top-width: 9px; border-bottom-width: 0px; border-top-style: solid; border-bottom-style: none;
+}
