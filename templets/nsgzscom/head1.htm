@@ -1,0 +1,53 @@
+<script>
+
+function click(e) {
+if (document.all) {
+if (event.button==2||event.button==3) { alert("欢迎光临寒舍，有什么需要帮忙的话，请与站长联系！谢谢您的合作！！！");
+oncontextmenu='return false';
+}
+}
+if (document.layers) {
+if (e.which == 3) {
+oncontextmenu='return false';
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+document.oncontextmenu = new Function("return false;")
+
+document.onkeydown =document.onkeyup = document.onkeypress=function(){
+if(window.event.keyCode == 123) {
+window.event.returnValue=false;
+return(false);
+}
+}
+
+</script>
+<header>
+<div class="nav-wrapper">
+<ul class="nav-sub N-s-arc equal-2">
+{dede:channel type='top' row='4' currentstyle="<li class='current'><a href='~typelink~'>~typename~</a></li>"}
+<li><a href='[field:typeurl/]'>[field:typename/]</a></li>
+{/dede:channel}
+</ul>
+</div>
+</header>
+<div class="profile_info">
+    <span class="radius_avatar profile_avatar">{dede:myppt tyepid='1' row='1'}<a href="[field:url/]"><img src="[field:pic/]"></a>{/dede:myppt}</span>
+    <strong class="profile_nickname">{dede:global.cfg_webname/}</strong>
+    <p class="profile_desc">{dede:global.cfg_keywords/}</p>
+    <div class="profile_opr">
+        <a href="{dede:global.cfg_weixin/}" id="js_btn_add_contact" class="weui_btn weui_btn_plain_primary">进入公众号</a>
+    </div>
+     <div class="profile_opr">
+        <div id="search">
+    <form action="/plus/search.php" name="formsearch">
+    <input type="text" name="q" class="seinput">
+    <input type="submit" class="button" value="">
+</form>
+  </div>
+    </div>
+</div>

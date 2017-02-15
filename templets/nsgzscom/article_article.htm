@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta name="format-detection" content="telephone=no">
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="keywords" content="{dede:field.keywords/}" />
+<meta name="description" content="{dede:field.description function='html2text(@me)'/}" />
+<script>var rqtime = +new Date();</script>
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/images/style.css">
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/images/main.css">
+</head>
+<body>
+{dede:include filename="head.htm"/}
+<ul class="list-wrapper wrapper">
+<div>
+<li>
+
+
+<div class="main-content">
+		<div class="cont-view">
+        <div style="width:100%;text-align:center;font-weight:bold;margin:10px 0px;">{dede:field.title/}</div>
+<p>
+    <br>
+</p>
+<div style="width:96%;margin:0px 2%;line-height:2em;">
+{dede:field.body/}
+</div>
+<p>
+    <br>
+</p>
+			</div>
+		</div>
+
+	<div class="main-content">
+		<div class="cont-view">
+			<div class="cont-main">
+				<div class="picbox">{dede:myad name='erweima'/}</div>
+			</div>
+		</div>
+		<div class="cont-banner">
+			<a href="{dede:global.cfg_weixin/}" id="tudouWeixinID">识别失败的同学务必请点这里</a>
+		</div>
+	</div>
+	<div class="foot">
+		{dede:global.cfg_powerby/}
+	</div>
+  </li>
+</div>
+</ul>
+<div style="display: none;">{dede:global.cfg_tongji/}</div>
+
+<link href="/images/base.css" rel="stylesheet" type="text/css" /><!--公用样式-->
+<script type="text/javascript" src="/images/jquery.min.js"></script><!--jquery.min-->
+<script type="text/javascript" language="javascript" src="/images/jquery.cookie.js"></script>
+<div class="header">
+	<div class="appdown appUrl">{dede:myad name='piao'/}<b class="close"></b></div>
+</div>
+</body></html>

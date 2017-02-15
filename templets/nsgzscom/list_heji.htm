@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telphone=no, email=no">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+<meta name="referrer" content="origin-when-cross-origin">  
+<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/images/index.css">   
+<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/images/weui.css">
+<link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/images/index2a31e5.css">
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_templets_skin/}/images/style.css">
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="keywords" content="{dede:field name='keywords'/}" />
+<meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+</head>
+<body id="" class="zh_CN " ontouchstart="">
+{dede:include filename="head1.htm"/}
+<div class="weui_msg_card_list" id="js_msg_card">
+<div class="container">
+
+
+
+    <div id="js_plugins">
+
+	    <div class="article_list" id="namespace_0">
+
+	{dede:list pagesize='200'}
+<a class="list_item js_post" href="[field:arcurl/]">
+
+		<div class="cover">
+
+			<img class="img js_img" src="[field:litpic/]" alt="[field:title/]">
+
+		</div>
+
+		<div class="cont">
+
+			<h2 class="title js_title">[field:title/]</h2>
+
+			<p class="desc">类 型：[field:banben/]</p>
+
+			<p class="desc">简 介：[field:jianjie/] </p>
+
+			
+
+		</div>
+
+	</a>
+{/dede:list}
+
+
+
+<div class="pagee"> {dede:pagelist listitem="pageno" listsize="2"/}</div>
+	
+	</div>
+
+
+</div></div></div>
+<div class="foot">
+		{dede:global.cfg_powerby/}
+	</div>
+    <div style="display: none;">{dede:global.cfg_tongji/}</div>
+</body></html>
